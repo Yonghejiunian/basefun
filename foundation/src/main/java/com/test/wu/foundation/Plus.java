@@ -7,6 +7,6 @@ package com.test.wu.foundation;
 public class Plus {
 
     public static int plusTheNum(){
-        return 740;
+        return 854;
     }
 }

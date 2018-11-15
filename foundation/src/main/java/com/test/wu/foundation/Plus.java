@@ -7,6 +7,6 @@ package com.test.wu.foundation;
 public class Plus {
 
     public static int plusTheNum(){
-        return  5+6+620;        //6:20 本分支直接做的改动
+        return  1811151015;        //10月15日10点16分做修改
     }
 }

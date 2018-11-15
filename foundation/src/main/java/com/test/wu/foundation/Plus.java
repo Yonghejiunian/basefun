@@ -7,7 +7,7 @@ package com.test.wu.foundation;
 public class Plus {
 
     public static int plusTheNum(){
-        int a = 10;
-        return  1811151015;        //10月15日10点16分做修改
+        int a = 500;
+        return  1811151044;        //10月44日10点16分做修改
     }
 }
